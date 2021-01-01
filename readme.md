@@ -9,3 +9,9 @@ solutions to the exercises in the chapter.
 ### Day 1 (Chapter 1 and 2):
 Chapter 1 is introduction and setup. Chapter 2 is built-in types and
 user-defined types like enum class, struct and class.
+
+### Day 2 (Chapter 3):
+Chapter 3 is mainly about pointers and references.
+
+### Day 3 (Chapter 4):
+Chapter 4 is about object lifecycle, copy/move semantics and error handling.
