@@ -11,7 +11,14 @@ Chapter 1 is introduction and setup. Chapter 2 is built-in types and
 user-defined types like enum class, struct and class.
 
 ### Day 2 (Chapter 3):
-Chapter 3 is mainly about pointers and references.
+Today was mainly about pointers and references.
 
 ### Day 3 (Chapter 4):
-Chapter 4 is about object lifecycle, copy/move semantics and error handling.
+Today I learned about object lifecycle, copy/move semantics and error handling.
+
+### Day 4 (Chapter 5):
+This chapter is about interfaces and injectors.
+
+### Day 5 (Chapter 6):
+In this chapter I learned about templates, concepts and a little 
+about casting.
