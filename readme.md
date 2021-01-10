@@ -33,5 +33,9 @@ Learned several statements and expressions.
 This chapter was about function decorators, call-operator and 
 lambda expressions.
 
-### Day 11/12(Chapter 10)
+### Day 11/12 (Chapter 10)
 This was about test and mockup Frameworks.
+
+### Day 13 (Chapter 11/Chapter 12)
+Chapter 11 is about smart pointers. Chapter 12 covers utilities like
+random number generators or optional.
