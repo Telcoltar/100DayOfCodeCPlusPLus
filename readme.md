@@ -22,3 +22,16 @@ This chapter is about interfaces and injectors.
 ### Day 5 (Chapter 6):
 In this chapter I learned about templates, concepts and a little 
 about casting.
+
+### Day 6 (Chapter 7):
+I learned about operators and conversions.
+
+### Day 7/8 (Chapter 8):
+Learned several statements and expressions.
+
+### Day 9/10 (Chapter 9)
+This chapter was about function decorators, call-operator and 
+lambda expressions.
+
+### Day 11/12(Chapter 10)
+This was about test and mockup Frameworks.

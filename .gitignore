@@ -1,2 +1,4 @@
 # Project exclude paths
 /Part I/*/*/cmake*/
+/Part II/*/*/cmake*/
+/Part II/*/*/lib
