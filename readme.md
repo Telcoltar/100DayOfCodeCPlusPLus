@@ -36,6 +36,10 @@ lambda expressions.
 ### Day 11/12 (Chapter 10)
 This was about test and mockup Frameworks.
 
-### Day 13 (Chapter 11/Chapter 12)
+### Day 13 (Chapter 11/ Chapter 12)
 Chapter 11 is about smart pointers. Chapter 12 covers utilities like
 random number generators or optional.
+
+### Day 14 (Chapter 13/ Chapter 14)
+Chapter 14 covers all kinds of Container (arrays, vectors, ques,
+(hash-)sets, (hash-)maps). 15 is a short chapter about iterators.
