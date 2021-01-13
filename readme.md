@@ -43,3 +43,9 @@ random number generators or optional.
 ### Day 14 (Chapter 13/ Chapter 14)
 Chapter 14 covers all kinds of Container (arrays, vectors, ques,
 (hash-)sets, (hash-)maps). 15 is a short chapter about iterators.
+
+### Day 15 (Chapter 15)
+This chapter was all about strings.
+
+### Day 16 (Chapter 16)
+All kinds of streams.
