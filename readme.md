@@ -49,3 +49,17 @@ This chapter was all about strings.
 
 ### Day 16 (Chapter 16)
 All kinds of streams.
+
+### Day 17 (Chapter 17)
+All about path, files and directories.
+
+### Day 18 (Chapter 18)
+Massive amounts of algorithms.
+
+### Day 19 (Chapter 19)
+High level parallel programming with async tasks. Atomics and mutex to 
+share objects 
+
+### Day 20 (Chapter 20)
+Network programming with boost asio library. Low level tcp and udp
+connections and high level with boost beast.
