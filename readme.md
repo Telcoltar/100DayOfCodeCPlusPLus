@@ -63,3 +63,6 @@ share objects
 ### Day 20 (Chapter 20)
 Network programming with boost asio library. Low level tcp and udp
 connections and high level with boost beast.
+
+### Day 21 (Chapter 21)
+Signals, program exits and command line options.
