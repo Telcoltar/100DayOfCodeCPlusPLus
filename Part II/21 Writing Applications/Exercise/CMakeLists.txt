@@ -14,5 +14,5 @@ IF (Boost_FOUND)
     INCLUDE_DIRECTORIES(${Boost_INCLUDE_DIR})
 ENDIF()
 
-add_executable(Exercises exercise_2.cpp)
+add_executable(Exercises exercise_2-3.cpp)
 
